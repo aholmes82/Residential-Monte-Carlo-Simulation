@@ -14,7 +14,7 @@
 
 - Simplified milestone payment amounts and cash flows from sales dates to three milestones
 - Assumed industry standard converation rates and employee sales productivity
-- Triangular distributions best describe randomd variable because they include minimum, mode, and max values. 
+- Triangular distributions best describe randomd variable because they include minimum, mode, and max values. We have control on the maximum costs to build projects and the minimum values we can sell developed projects for and have confident about the mode.
 
 ## Requirements
 - Python 3.x
